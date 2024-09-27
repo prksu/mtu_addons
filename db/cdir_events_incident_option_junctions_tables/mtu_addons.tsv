@@ -1,0 +1,4 @@
+id	incident_key	option_key	value	target
+#cdir_events_incident_option_junctions_tables;0;db/cdir_events_incident_option_junctions_tables/mtu_addons				
+422164000	3k_mtu_addons_remarry_empress	GEN_TARGET_MODEL		default
+422164001	3k_mtu_addons_event_mi_family_join_liu_bei_faction	GEN_TARGET_MODEL		default

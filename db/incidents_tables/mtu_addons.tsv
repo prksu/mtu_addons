@@ -1,0 +1,4 @@
+key	generate	ui_image	prioritised	event_category	should_apply_payloads
+#incidents_tables;1;db/incidents_tables/mtu_addons					
+3k_mtu_addons_remarry_empress	false	3k_event_people_good	false	faction	true
+3k_mtu_addons_event_mi_family_join_liu_bei_faction	false	3k_event_people_good	false	historical	true

@@ -1,0 +1,6 @@
+id	incident_key	payload_key	value	target_key
+#cdir_events_incident_payloads_tables;0;db/cdir_events_incident_payloads_tables/mtu_addons				
+76611600	3k_mtu_addons_remarry_empress	MARRIAGE	MARRIAGE_TARGET[target_character_1]	target_character_2
+76611601	3k_mtu_addons_remarry_empress	LOCATED	FACTION	default
+76611602	3k_mtu_addons_event_mi_family_join_liu_bei_faction	EFFECT_BUNDLE	KEY[3k_mtu_addons_mi_family_join_liu_bei_increaes_faction_support];DURATION[3]	default
+76611603	3k_mtu_addons_event_mi_family_join_liu_bei_faction	LOCATED	FACTION	default

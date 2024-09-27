@@ -1,0 +1,10 @@
+key	text	tooltip
+#Loc;1;text/mtu_addons.loc		
+incidents_localised_title_3k_mtu_addons_remarry_empress	She is Empress	false
+incidents_localised_description_3k_mtu_addons_remarry_empress	Even you made another concubine. The empress still in your heart	false
+incidents_localised_title_3k_mtu_addons_event_mi_family_join_liu_bei_faction	Mi Family Join Faction	false
+incidents_localised_description_3k_mtu_addons_event_mi_family_join_liu_bei_faction	Mi family has faithfully served Tao Qian for many years. As Tao Qian passed away, they had no lordship and were willing to join you.	false
+effect_bundles_localised_title_3k_mtu_addons_concubine_nochild	PLACEHOLDER	false
+effect_bundles_localised_description_3k_mtu_addons_concubine_nochild	PLACEHOLDER	false
+effect_bundles_localised_title_3k_mtu_addons_mi_family_join_liu_bei_increaes_faction_support	Loyal Family	false
+effect_bundles_localised_description_3k_mtu_addons_mi_family_join_liu_bei_increaes_faction_support	Support from loyal family	false
